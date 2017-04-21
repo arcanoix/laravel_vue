@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('manage-vue');
 });
+
+Route::get('manage-vue', 'VueItemController@manageVue');
+Route::resource('vueitems', 'VueItemController');
