@@ -12,7 +12,7 @@
                 <div class="col-lg-12 margin-tb">
                    
                     <div class="pull-left">
-                        <h2>Laravel Vue JS Item CRUD</h2>
+                        <h2>Laravel Vue JS Item CRUD by Thavoo</h2>
 
                     </div>
                    
